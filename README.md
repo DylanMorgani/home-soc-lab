@@ -18,7 +18,6 @@ A professional Security Operations Center built in Proxmox for hands-on cybersec
 
 ## Architecture
 
-(Add your diagram here later)
 
 ## Progress
 
